@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "ID": 101,
+      "Name": "UltraWidget Pro",
+      "Category": "Electronics",
+      "Price": 299.99,
+      "Stock": 150,
+      "Rating": 4.8,
+      "Release Date": "2024-01-15",
+      "Description": "A high-end widget with advanced features and a sleek design.",
+      "id": "fbe4"
+    },
+    {
+      "ID": 102,
+      "Name": "ComfyChair Deluxe",
+      "Category": "Furniture",
+      "Price": 89.99,
+      "Stock": 75,
+      "Rating": 4.5,
+      "Release Date": "2023-11-20",
+      "Description": "An ergonomic chair designed for maximum comfort and support.",
+      "id": "5d51"
+    },
+    {
+      "id": "b887",
+      "Name": "New Product",
+      "Category": "Electronics",
+      "Price": "342",
+      "Stock": "53",
+      "Rating": 0,
+      "ReleaseDate": "",
+      "Description": "An ergonomic chair designed for maximum comfort and support.An ergonomic chair designed for maximum comfort and support."
+    },
+    {
+      "id": "TIEUZR463mCelBoPYKXLj",
+      "Name": "Mobile Phone",
+      "Category": "Electronics",
+      "Price": "634",
+      "Stock": "65",
+      "Rating": 0,
+      "ReleaseDate": "",
+      "Description": "An ergonomic chair designed for maximum comfort and support."
+    }
+  ]
+}
